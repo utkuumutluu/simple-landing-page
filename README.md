@@ -1,17 +1,30 @@
 # Simple Landing Page
 
-HTML & CSS ile hazırlanmış, sade ve responsive bir landing page template.
+Modern, sade ve responsive bir landing page tasarımı.  
+HTML ve CSS kullanılarak oluşturulmuştur.
 
-## Özellikler
-- Flexbox layout
-- CSS variables
+🔗 **Canlı Demo:**  
+https://utkuumutluu.github.io/simple-landing-page/
+
+---
+
+## 🚀 Özellikler
 - Responsive tasarım
-- Kolay özelleştirilebilir
+- Flexbox layout
+- CSS değişkenleri (:root)
+- Temiz ve anlaşılır kod yapısı
+- Kolayca özelleştirilebilir
 
-## Kullanım
-1. Repo’yu klonla veya indir
-2. index.html dosyasını aç
-3. Metinleri değiştir
+---
 
-## Lisans
-MIT License
+## 🛠 Kullanılan Teknolojiler
+- HTML5
+- CSS3 (Flexbox, Media Queries)
+
+---
+
+## 📂 Kurulum
+Bu projeyi kullanmak için:
+
+```bash
+git clone https://github.com/utkuumutluu/simple-landing-page.git
